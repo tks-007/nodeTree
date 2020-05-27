@@ -1,0 +1,9 @@
+{
+  "name": "nodeTree",
+  "version": "1.0.0",
+  "description": "nodejs 文件目录树结构格式输出",
+  "main": "index.js",
+  "repository": "https://github.com/tks-007/nodeTree.git",
+  "author": "tks <920312863@qq.com>",
+  "license": "MIT"
+}
